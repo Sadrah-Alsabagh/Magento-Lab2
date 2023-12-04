@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-04T10:28:55 EET" name="Default suite" finished-at="2023-12-04T10:29:19 EET" duration-ms="24140">
+    <groups>
+    </groups>
+    <test started-at="2023-12-04T10:28:55 EET" name="Default test" finished-at="2023-12-04T10:29:19 EET" duration-ms="24140">
+      <class name="TestCases.Signup_login_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.Signup_login_Test@1bb1fde8]" started-at="2023-12-04T10:28:55 EET" name="setup" finished-at="2023-12-04T10:28:59 EET" duration-ms="3701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup()[pri:1, instance:TestCases.Signup_login_Test@1bb1fde8]" started-at="2023-12-04T10:28:59 EET" name="signup" finished-at="2023-12-04T10:29:07 EET" duration-ms="7733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="logout()[pri:2, instance:TestCases.Signup_login_Test@1bb1fde8]" started-at="2023-12-04T10:29:07 EET" name="logout" finished-at="2023-12-04T10:29:15 EET" duration-ms="8175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="login()[pri:3, instance:TestCases.Signup_login_Test@1bb1fde8]" started-at="2023-12-04T10:29:15 EET" name="login" finished-at="2023-12-04T10:29:19 EET" duration-ms="4474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="postTest()[pri:0, instance:TestCases.Signup_login_Test@1bb1fde8]" started-at="2023-12-04T10:29:19 EET" name="postTest" finished-at="2023-12-04T10:29:19 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+      </class> <!-- TestCases.Signup_login_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
